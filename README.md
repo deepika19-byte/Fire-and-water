@@ -1,2 +1,3 @@
 # Fire-and-water
-experiencing fantasy powers
+Experiencing fantasy powers
+An interactive web-based Fire and Water game built with HTML, CSS, and JavaScript. 
